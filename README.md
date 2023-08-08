@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50">, I'm Mahdi Hazrati</h1>
-<h3 align="center">A passionate frontend developer from Tehran</h3>
-
+<h3 align="center">a passionate Front-End developer from Tehran</h3>
+<h1 align="center"><img src="https://i.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.webp" width="200"></h1>
 
 ```
                 _________________
@@ -38,3 +38,5 @@
 
 
 ```
+<div align="center"><img src="https://i.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.webp" width="100"></div>
+
