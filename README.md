@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50">, I'm Mahdi Hazrati</h1>
-<h3 align="center">a passionate Front-End developer from Tehran</h3>
+<h1 align="center">Hi <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="50">, I'm Mahdi Hazrati</h1>
+<h3 align="center">a passionate Software Engineer from Tehran 🚀</h3>
 <h1 align="center"><img src="https://i.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.webp" width="200"></h1>
 <details>
   <summary>What technologies do I use in our programming workflow?</summary>
