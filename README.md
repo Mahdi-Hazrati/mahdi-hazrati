@@ -2,6 +2,8 @@
 <h3 align="center">a passionate Software Engineer from Tehran 🚀</h3>
 <h1 align="center"><img src="https://i.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.webp" width="200"></h1>
 
+<a align="center" href="https://app.daily.dev/mahdihazrati"><img src="https://api.daily.dev/devcards/9e608a19c48d4d80b0571fbaa7160f91.png?r=u18" width="400" alt="Mahdi Hazrati's Dev Card"/></a>
+
 <details>
 	<summary>Mahdi's Open-Source Activity?</summary>
 <!-- Mahdi-Hazrati/mahdi-hazrati is a ✨ _special_ ✨ repository because its `README.md`, see workflows folder -->
