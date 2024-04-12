@@ -1,7 +1,8 @@
-<h1 align="center">Hi <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="50">, I'm Mahdi Hazrati</h1> 
+<h1 align="center">Hi <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40">😃, I'm Mahdi Hazrati</h1> 
 <!-- <h3 align="center">Passionate Software Engineer, Tehran 🚀</h3> -->
-<h3 align="center">Web Application Developer</h3>
-<!-- <h4 align="center" >mahdi@nextproduction.dev</h4>  -->
+<h2 align="center">Computer Science Student</h2>
+<h3 align="center">Web Application Developer [ React JS / Next JS ]</h3>
+<h4 align="center" >Email: mahdi@nextproduction.dev</h4> 
 <h1 align="center"><img src="https://i.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.webp" width="200"></h1>
 
 <details>
@@ -11,7 +12,6 @@
 ![Mahdi Hazrati Github Contribution](./profile-3d-contrib/profile-night-green.svg)
 
 </details>
-
 
 ```
                 _________________
@@ -43,9 +43,8 @@
  |                                    |            /  / /        
  |                                    |           /  / /
  |                                    |          /___\/
- | mahdi@nextproduction.dev           |           oo
+ |                                    |           oo
  |____________________________________|
 
-
-
 ```
+
