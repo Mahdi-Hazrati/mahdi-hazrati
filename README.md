@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40">😃, I'm Mahdi Hazrati</h1> 
 <!-- <h3 align="center">Passionate Software Engineer, Tehran 🚀</h3> -->
-<h2 align="center">Computer Science Student</h2>
+<h2 align="center">Maker</h2>
 <h3 align="center">Web Application Developer [ React JS / Next JS ]</h3>
 
 <!-- <h4 align="center" >Email: mahdi@nextproduction.dev</h4>  -->
