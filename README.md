@@ -1,16 +1,14 @@
 <h1 align="center">Hi <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40">😃, I'm Mahdi Hazrati</h1> 
 <!-- <h3 align="center">Passionate Software Engineer, Tehran 🚀</h3> -->
 <!-- <h2 align="center">Maker</h2> -->
-<h3 align="center">Web Application Developer [ React JS / Next JS ]</h3>
+<h3 align="center">Software Engineer</h3>
 
 <!-- <h4 align="center" >Email: mahdi@nextproduction.dev</h4>  -->
 <h1 align="center"><img src="https://i.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.webp" width="200"></h1>
 
 <div align="center">
   <a href="https://telegram.me/TheMahdiHazrati" target="_blank">Telegram</a> /
-  <a href="https://www.linkedin.com/in/mahdihazratidev/" target="_blank">Linkedin</a> /
-  <a href="https://youtube.com/@MahdiCodingJourney" target="_blank">Youtube</a> /
-  <a href="mailto:mahdi@nextproduction.dev" target="_blank">Email</a>
+  <a href="https://www.linkedin.com/in/mahdihazratidev/" target="_blank">Linkedin</a> 
 </div>
 
 <details>
